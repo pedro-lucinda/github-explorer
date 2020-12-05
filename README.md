@@ -3,6 +3,9 @@
 Application made for learning purposes.
 It can search for github repositories and list the open issues.
 
+### Link
+http://github-explorer-pedro-lucinda.surge.sh/
+
 ### Techs
 - ReactJS
 - TypeScript
